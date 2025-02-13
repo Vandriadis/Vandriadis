@@ -1,8 +1,7 @@
 ## Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vandriadis)](https://github.com/anuraghazr/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Vandriadis&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vandriadis)](https://git.io/streak-stats)
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31jot7dmxf777cunhkoljeagak4e)
 <!--
 **Vandriadis/Vandriadis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
